@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1672735f.css",
+    "main.js": "/static/js/main.caeb225b.js",
+    "static/js/ort-wasm-simd.wasm": "/static/js/ort-wasm-simd.wasm",
+    "static/js/ort-wasm-simd-threaded.wasm": "/static/js/ort-wasm-simd-threaded.wasm",
+    "static/js/ort-wasm.wasm": "/static/js/ort-wasm.wasm",
+    "static/js/ort-wasm-threaded.wasm": "/static/js/ort-wasm-threaded.wasm",
+    "index.html": "/index.html",
+    "main.1672735f.css.map": "/static/css/main.1672735f.css.map",
+    "main.caeb225b.js.map": "/static/js/main.caeb225b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1672735f.css",
+    "static/js/main.caeb225b.js"
+  ]
+}
